@@ -1,5 +1,3 @@
-//cart item
-
 interface Item {
     name: string;
     quantity: number;

@@ -1,5 +1,3 @@
-//Inventory Items
-
 import Image from "next/image";
 
 interface Item {

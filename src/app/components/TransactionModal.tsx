@@ -21,7 +21,7 @@ export default function TransactionModal({ transactionUrl, onClose }: Transactio
           setStatus("confirmed");
           setTimeout(() => {
             router.push("/success");
-          }, 5000); // for 5 seconds
+          }, 2000);
         } else {
           setStatus("failed");
         }

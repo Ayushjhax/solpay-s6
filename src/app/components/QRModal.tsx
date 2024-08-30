@@ -1,5 +1,3 @@
-//QR Modal
-
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { QRCodeSVG } from "qrcode.react";
